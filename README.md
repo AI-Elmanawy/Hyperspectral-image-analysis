@@ -1,1 +1,1 @@
-# HSI-PP is a free open source software for analysis hyperspectral images to serve plant phenotyping
+# HSI-PP is a stand-alone, automated, and open-source hyperspectral image processing platform adapted to various applications in plant phenotypingto serve the plant research community.
