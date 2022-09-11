@@ -2,6 +2,6 @@
 # You have to be sure that sound work on your computer before run this softwrae.
 # After downloading the password for extraction (TPJ-2022), then after extracting run the "HSI-PP.exe" file from the subfolder.
 # Please check the new version of this software at this link "https://agrsuezedu-my.sharepoint.com/:u:/g/personal/a_elmanawy_90_agr_suez_edu_eg/EYTCKsGLf49IhIVUiFLwbrQBmySQi2xCpnnb-a02_Rr26A?e=jvAQ3A".
-# This new version (V1.2) does not require any password, after downloading and extracting run the "HSI-PP_V1.2.exe" file from the subfolder. Wait a few second after  "Administrator window" opened, the software will be opened automatically.
+# This new version (V1.2) does not require any password, after downloading and extracting run the "HSI-PP.exe" file from the subfolder. Wait a few second after  "Administrator window" opened, the software will be opened automatically.
 # please cite this software as: "ElManawy, A. I., Sun, D., Abdalla, A., Zhu, Y., & Cen, H. (2022). HSI-PP: A flexible open-source software for hyperspectral imaging-based plant phenotyping. Computers and Electronics in Agriculture, 200, 107248."
 # script compatible with python 3.7 or newer
