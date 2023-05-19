@@ -5,3 +5,4 @@
 # This new version (V1.2) does not require any password, after downloading and extracting run the "HSI-PP.exe" file from the subfolder. Wait a few second after  "Administrator window" opened, the software will be opened automatically.
 # please cite this software as: "ElManawy, A. I., Sun, D., Abdalla, A., Zhu, Y., & Cen, H. (2022). HSI-PP: A flexible open-source software for hyperspectral imaging-based plant phenotyping. Computers and Electronics in Agriculture, 200, 107248."
 # script compatible with python 3.7 or newer
+#  After HSI-PP starts, you will see the main window and a text window (called terminal) underneath. Do not close the terminal, if you do, HSI-PP will shut down. Informational messages from processing operations or errors will be displayed in the terminal. Please report crashes and any associated messages to us and we will try to fix them.
